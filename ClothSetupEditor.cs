@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+﻿//https://twitter.com/LenZ_Chu
+//create by: Eugene Chu
+//Free to use this as u like! :3
+
+using UnityEngine;
 using UnityEditor;
 using System.Collections.Generic;
 public class ClothSetupEditor : EditorWindow
